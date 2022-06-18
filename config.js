@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
-global.owner =  ['6285904142544','6283824566640','628895082547','62881027973711','6285848171414']
-global.mods =  ['6285904142544','6283824566640','628895082547','62881027973711','6285848171414']
-global.prems =  ['6285904142544','6283824566640','628895082547','6288102797311','6285848171414']
+global.owner =  ['6285904142544','6283824566640','628895082547','62881027973711','6289517158630','6285848171414']
+global.mods =  ['6285904142544','6283824566640','628895082547','6289517158630','62881027973711','6285848171414']
+global.prems =  ['6285904142544','6289517158630','6283824566640','628895082547','6288102797311','6285848171414']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Luck Xxy Creator'
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'DarkStalker-BOT'
 global.watermark = wm
-global.wm2 = '                     「 DarkStalker-BOT あ⁩ 」'
+global.wm2 = '                     「 DarkStalkerBOT あ⁩ 」'
 global.wm3 = '⫹⫺ DarkStalker-BOT'
 global.htki = '––––––『' 
 global.htka = '』––––––'
